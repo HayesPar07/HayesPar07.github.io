@@ -7,17 +7,20 @@ h1 {
     font-weight: 700;
     font-size: 25px;
     color: orange; 
-    text-align: right;
+    text-align: left;
 
 }
 h2, h5, h8, h11, h14, h17, h20 {
     font-weight: 600;
     font-size: 16px;
+    text-align: left;
 }
 h3, h4, h6, h7, h9, h10, h12, h13, h15, h16, h18, h19, h21, h22 {
     font-weight: 500;
     font-size: 12px;
+    text-align: left;
 }
+
 
 
     
