@@ -10,7 +10,13 @@ h1 {
     text-align: left;
 
 }
-h2:nth-child(3n+2), h5:nth-child(3n+2), h8:nth-child(3n+2), h11:nth-child(3n+2), h14:nth-child(3n+2), h17:nth-child(3n+2), h20:nth-child(3n+2) {
+h2:nth-child(3n+2),
+h5:nth-child(3n+2),
+h8:nth-child(3n+2),
+h11:nth-child(3n+2),
+h14:nth-child(3n+2),
+h17:nth-child(3n+2),
+h20:nth-child(3n+2) {
     font-weight: 600;
     font-size: 16px;
 }
