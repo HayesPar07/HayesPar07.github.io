@@ -10,15 +10,14 @@ h1 {
     text-align: left;
 
 }
-h2, h5, h8, h11, h14, h17, h20 {
+h2:nth-child(3n+2), h5:nth-child(3n+2), h8:nth-child(3n+2), h11:nth-child(3n+2), h14:nth-child(3n+2), h17:nth-child(3n+2), h20:nth-child(3n+2) {
     font-weight: 600;
     font-size: 16px;
 }
-h3, h4, h6, h7, h9, h10, h12, h13, h15, h16, h18, h19, h21, h22 {
+h3:nth-child(3n), h4:nth-child(3n), h6:nth-child(3n), h7:nth-child(3n), h9:nth-child(3n), h10:nth-child(3n), h12:nth-child(3n), h13:nth-child(3n), h15:nth-child(3n), h16:nth-child(3n), h18:nth-child(3n), h19:nth-child(3n), h21:nth-child(3n), h22:nth-child(3n) {
     font-weight: 500;
     font-size: 12px;
 }
 
 
 
-    
