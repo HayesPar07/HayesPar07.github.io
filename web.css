@@ -9,16 +9,35 @@ h1 {
     text-align: left;
 
 }
-h2:nth-child(3n+2),
-h5:nth-child(3n+2),
-h8:nth-child(3n+2),
-h11:nth-child(3n+2),
-h14:nth-child(3n+2),
-h17:nth-child(3n+2),
-h20:nth-child(3n+2) {
+h2 {
     font-weight: 600;
     font-size: 16px;
 }
+h5 {
+    font-weight: 600;
+    font-size: 16px;
+}
+h8 {
+    font-weight: 600;
+    font-size: 16px;
+}
+h11 {
+    font-weight: 600;
+    font-size: 16px;
+}
+h14 {
+    font-weight: 600;
+    font-size: 16px;
+}
+h17 {
+    font-weight: 600;
+    font-size: 16px;
+}
+h20 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
 h3:nth-child(3n),
 h4:nth-child(3n),
 h6:nth-child(3n),
